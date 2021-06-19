@@ -12,3 +12,7 @@ SeYeon Cho, BeomJin Jeong, GyeongWoon Choi (SSAFY 5th)
 -MyBatis  
 -Vue.js  
 -Node.js
+
+## How to
+- BE: SpringBoot 서버 실행(apache)
+- FE: Vue 터미널에서 npm run serve 
